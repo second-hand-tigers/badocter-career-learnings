@@ -1,4 +1,4 @@
-_[career-learnings-directory](./career-learnings-directory)_
+_[ ← career-learnings-directory](https://github.com/second-hand-tigers/career-learnings-directory)_
 
 # William Docter — Career Learnings
 
