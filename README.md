@@ -1,3 +1,5 @@
+_[career-learnings-directory](./career-learnings-directory)_
+
 # William Docter — Career Learnings
 
 Welcome. This repo holds career-development content I've built and taught
@@ -8,7 +10,7 @@ they're missing one.
 > This repo is part of the **second-hand-tigers** organization's contributor
 > network — a collection of individual repos where experienced engineers
 > share what they've learned outside the technical curriculum. See the
-> [contributor directory](#) *(link to be added once created)* for other
+> [contributor directory](./career-learnings-directory) *(link to be added once created)* for other
 > contributors' repos.
 
 ## Why This Exists
