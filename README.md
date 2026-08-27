@@ -1,4 +1,4 @@
-_[ ← career-learnings-directory](https://github.com/second-hand-tigers/career-learnings-directory)_
+_[← career-learnings-directory](https://github.com/second-hand-tigers/career-learnings-directory)_
 
 # William Docter — Career Learnings
 
@@ -22,26 +22,14 @@ taught on the job either. This repo is my attempt to close that gap for
 the next generation, drawn from real experience rather than generic career
 advice.
 
-## What You'll Find Here
-
-| Topic | Description |
-|---|---|
-| Who is Dr. Docter? | Background, career path, personality/strengths profile (MBTI/KTI), and how they've shaped my approach to mentoring and development |
-| Technical Career Stages | The Apprentice -> Colleague -> Expert -> Sponsor model, what changes at each stage, and how R&Rs shift from technical to people-focused over time |
-| Setting and Accomplishing Development Goals | Balancing Leadership, Business, Interpersonal, and Technical development; building a yearly plan tied to tangible deliverables |
-| Communication & Marketing | Building your brand and network early, framing and presenting your work, why "no idea sells itself," and giving credit to your team |
-| Mentoring Integration with Stage Development | How mentoring relationships evolve across a career (receiving -> providing), illustrated through the "Sliced Bread" mentoring case study |
-| Considerations for Grad School | Funding realities, choosing a doctoral path, and the transferable skills grad work builds regardless of career track |
-| Stress Management & Resilience | Personal story of learning resilience the hard way, plus practical strategies: exercise/meditation, work prioritization, and protecting real downtime |
-| Pop Culture Career Lessons | Career and life lessons drawn from film and TV — Nedry (Jurassic Park) as the failed-expert cautionary tale, the Dread Pirate Roberts (Princess Bride) on reinvention through relocation, and Spock (Star Trek) on stoicism as a career discipline |
-
-*(This table will be finalized once slide content is migrated into the Wiki.)*
-
 ## How This Repo Is Organized
 
-- **[Wiki](../../wiki)** — the main content lives here: one page per topic
-  above, cross-linked where themes overlap (e.g., the "Sliced Bread" case
-  study referenced from both the mentoring page and its own job aid).
+- **[Wiki](../../wiki)** — start here. Topics covered include career
+  stages, development planning, communication and networking, mentoring,
+  grad school, stress management, and pop-culture career lessons, each as
+  its own page and cross-linked where themes overlap (e.g., the "Sliced
+  Bread" case study referenced from both the mentoring page and its own
+  job aid).
 - **[Issues / Projects](../../projects)** — my working backlog of topics to
   develop or revise, tracked by status (Idea → Drafting → Delivered).
 - **[/slides](./slides)** — PowerPoint decks from the actual talks/lectures
