@@ -10,8 +10,7 @@ they're missing one.
 > This repo is part of the **second-hand-tigers** organization's contributor
 > network — a collection of individual repos where experienced engineers
 > share what they've learned outside the technical curriculum. See the
-> [contributor directory](./career-learnings-directory) *(link to be added once created)* for other
-> contributors' repos.
+> [contributor directory](./career-learnings-directory)
 
 ## Why This Exists
 
