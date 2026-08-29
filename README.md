@@ -21,7 +21,7 @@ to see what's here.
 Technical skill gets you in the door. What determines how far you go —
 how you're perceived, how you navigate ambiguity, how you build trust with
 people who aren't engineers — is rarely taught in school and rarely
-taught on the job either. This repo is my attempt to close that gap for
+formally taught on the job either, leaving a lot of it to the "school of hard knocks" to acquire, which at times can be brutal. This repo is my attempt to close that gap for
 the next generation, drawn from real experience rather than generic career
 advice.
 
