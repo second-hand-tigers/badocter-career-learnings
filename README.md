@@ -32,8 +32,7 @@ advice.
   first. Topics covered include career stages, development planning,
   communication and networking, mentoring, grad school, stress management,
   and pop-culture career lessons, each as its own page and cross-linked
-  where themes overlap (e.g., the "Sliced Bread" case study referenced
-  from both the mentoring page and its own job aid).
+  where themes overlap.
 - **[Issues / Projects](../../projects)** — my working backlog of topics to
   develop or revise, tracked by status (Idea → Drafting → Delivered).
 - **[/slides](./slides)** — PowerPoint decks from the actual talks/lectures
