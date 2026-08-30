@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+_[← Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory) · [Site](https://second-hand-tigers.github.io/career-learnings-directory/)_
+
 # William Docter — Career Learnings
 
 Career-development content built and taught over many years as a practicing
@@ -33,6 +35,6 @@ generic career advice.
 - **[About](./about)** — my background.
 
 This repo is part of the **second-hand-tigers** organization's
-[contributor network](https://github.com/second-hand-tigers/career-learnings-directory) —
+[contributor network](https://second-hand-tigers.github.io/career-learnings-directory/) —
 individual repos where experienced engineers share what they've learned
 outside the technical curriculum.
