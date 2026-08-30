@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-_[← Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory) · [Site](https://second-hand-tigers.github.io/career-learnings-directory/)_
+_[← Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)_<br>
+_[Toggle to Repo View](https://github.com/second-hand-tigers/badocter-career-learnings)_
 
 # William Docter — Career Learnings
 
