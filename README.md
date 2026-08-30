@@ -1,4 +1,9 @@
-_[← career-learnings-directory](https://github.com/second-hand-tigers/career-learnings-directory)_
+_[← Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory)_<br>
+_[Toggle to Page View](https://second-hand-tigers.github.io/badocter-career-learnings/)_
+
+# William Docter — Career Learnings
+
+Welcome. This repo holds career-development content...
 
 # William Docter — Career Learnings
 
