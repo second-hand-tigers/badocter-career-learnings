@@ -3,10 +3,6 @@ _[Toggle to Page View](https://second-hand-tigers.github.io/badocter-career-lear
 
 # William Docter — Career Learnings
 
-Welcome. This repo holds career-development content...
-
-# William Docter — Career Learnings
-
 Welcome. This repo holds career-development content I've built and taught
 over many years as a practicing chemical engineer — the non-technical
 skills that most early-career engineers don't realize they need until
