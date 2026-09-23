@@ -11,7 +11,7 @@ they're missing one.
 ## Start Here
 
 This site is a companion to the **[full wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)**,
-where every topic lives as its own page. A few good entry points:
+where every topic lives as its own page. A few good topics to start with:
 
 | Page | Description |
 |---|---|
