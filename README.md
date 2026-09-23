@@ -56,3 +56,7 @@ from the University of Cincinnati. I retired from ExxonMobil in 2026 and
 now volunteer with chemical engineering senior design students at Lamar
 University — this repo is where that effort lives. Full details are on
 the [Who is Dr. Docter?](../../wiki/Who-is-Dr-Docter) wiki page.
+
+---
+
+**License:** © 2026 William Docter. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and indicate if changes were made.
