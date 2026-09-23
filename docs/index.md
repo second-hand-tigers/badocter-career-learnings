@@ -17,7 +17,7 @@ don't realize they need until they're missing one.
 ## Start Here
 
 This site is a companion to the **[full wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)**,
-where every topic lives as its own page. A few good topics to start from:
+where every topic lives as its own page. A few good topics to start with:
 
 | Page | Description |
 |---|---|
@@ -25,6 +25,7 @@ where every topic lives as its own page. A few good topics to start from:
 | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
 | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
 | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) | Communication & Marketing, presentations and public speaking, Bottom Line Up Front, and other workplace-writing pages |
+| [Pop Culture Career Lessons](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Pop-Culture-Career-Lessons) | Nine films and shows — from Han Solo and Nedry to Neo and the Dread Pirate Roberts — as career-lesson vehicles |
 
 ## Why This Exists
 
