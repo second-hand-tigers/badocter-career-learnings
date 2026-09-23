@@ -16,11 +16,15 @@ don't realize they need until they're missing one.
 
 ## Start Here
 
-This site is a companion to the full [wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki),
+This site is a companion to the **[full wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)**,
 where every topic lives as its own page. Two good entry points:
 
-- [Technical Career Stages](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Technical-Career-Stages)
-- [Setting and Accomplishing Development Goals](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Setting-and-Accomplishing-Development-Goals)
+| Page | Description |
+|---|---|
+| [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) | Resumes, LinkedIn, and Interview Prep — writing the documents and working the room, as separate pages.  Start here if you are looking for a job! |
+| [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study — each its own page.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
+| [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
+| [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) | Communication & Marketing, presentations and public speaking, Bottom Line Up Front, and other workplace-writing pages — each its own page as they're drafted |
 
 ## Why This Exists
 
