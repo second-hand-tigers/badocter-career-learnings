@@ -45,3 +45,7 @@ This repo is part of the **second-hand-tigers** organization's
 [contributor network](https://second-hand-tigers.github.io/career-learnings-directory/) —
 individual repos where experienced engineers share what they've learned
 outside the technical curriculum.
+
+---
+
+**License:** © 2026 William Docter. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and indicate if changes were made.
