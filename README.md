@@ -15,10 +15,13 @@ where every topic lives as its own page. A few good topics to start with:
 
 | Page | Description |
 |---|---|
+|***Where to Start**|   |
 | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) | Resumes, LinkedIn, and Interview Prep — writing the documents and working the room.  Start here if you are looking for a job! |
 | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
 | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
 | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) | Communication & Marketing, presentations and public speaking, Bottom Line Up Front, and other workplace-writing pages |
+|   |   |
+|**Other Topics**|   |
 | [Pop Culture Career Lessons](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Pop-Culture-Career-Lessons) | Nine films and shows — from Han Solo and Nedry to Neo and the Dread Pirate Roberts — as career-lesson vehicles |
 
 > This repo is part of the **second-hand-tigers** organization's contributor
