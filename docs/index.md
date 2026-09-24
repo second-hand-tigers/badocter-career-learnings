@@ -10,14 +10,15 @@ _[Toggle to Repo View](https://github.com/second-hand-tigers/badocter-career-lea
 
 # William Docter — Career Learnings
 
-Career-development content built and taught over many years as a practicing
-chemical engineer — the non-technical skills most early-career engineers
-don't realize they need until they're missing one.
+Welcome. This repo holds career-development content I've built and taught
+over many years as a practicing chemical engineer — the non-technical
+skills that most early-career engineers don't realize they need until
+they're missing one.
 
-## Start Here
+## Where to Start
 
 This site is a companion to the **[full wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)**,
-where every topic lives as its own page. A few good topics to start with:
+where every topic lives as its own page.
 
 | Page | Description |
 |---|---|
@@ -25,27 +26,48 @@ where every topic lives as its own page. A few good topics to start with:
 | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
 | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
 | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) | Communication & Marketing, presentations and public speaking, Bottom Line Up Front, and other workplace-writing pages |
+
+## Other Topics
+
+| Page | Description |
+|---|---|
+| [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | Background, career path, personality/strengths profile (Myers–Briggs Type Indicator (MBTI) / Keirsey Temperament Sorter (KTS))|
+| [Dr. Docter's Career Timeline](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Career-Timeline) | Full year-by-year chronology of roles and responsibilities |
+| [Above the Line](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Work-Life-Balance) | Personal resilience story, practical coping strategies, and balancing team Full Time Equivalent (FTE) capacity against workload |
+| [Considerations for Grad School](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Considerations-for-Grad-School) | Funding, choosing a doctoral path, transferable skills |
 | [Pop Culture Career Lessons](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Pop-Culture-Career-Lessons) | Nine films and shows — from Han Solo and Nedry to Neo and the Dread Pirate Roberts — as career-lesson vehicles |
+
+> This repo is part of the **second-hand-tigers** organization's contributor
+> network — a collection of individual repos where experienced engineers
+> share what they've learned outside the technical curriculum. See the
+> [career learnings directory](https://second-hand-tigers.github.io/career-learnings-directory/)
 
 ## Why This Exists
 
-Technical skill gets you in the door. What determines how far you go — how
-you're perceived, how you navigate ambiguity, how you build trust with
+Technical skill gets you in the door. What determines how far you go —
+how you're perceived, how you navigate ambiguity, how you build trust with
 people who aren't engineers — is rarely taught in school and rarely
-formally taught on the job either. This site is one attempt to close that
-gap for the next generation, drawn from real experience rather than
-generic career advice.
+formally taught on the job either, leaving a lot of it to the "school of hard knocks" to acquire, which at times can be brutal. This repo is my attempt to close that gap for
+the next generation, drawn from real experience rather than generic career
+advice.
 
-## What's Here
+## How This Repo Is Organized
 
-- **[Wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)** — career stages, development planning, communication and networking, mentoring, grad school, stress management, and pop-culture career lessons.
-- **[Slides](https://github.com/second-hand-tigers/badocter-career-learnings/tree/main/slides)** — the PowerPoint decks these talks are drawn from.
-- **[About](./about)** — my background.
+- **[Wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)** — Contains wiki pages for all topics listed in the tables above.
+- **[Issues / Projects](https://github.com/orgs/second-hand-tigers/projects/3)** — My working backlog of topics to
+  develop or revise, tracked by status (Idea → Drafting → Delivered).
+- **[/slides](https://github.com/second-hand-tigers/badocter-career-learnings/tree/main/slides)** — PowerPoint decks from the actual talks/lectures
+  this content is drawn from, organized by topic subfolder.
 
-This repo is part of the **second-hand-tigers** organization's
-[contributor network](https://second-hand-tigers.github.io/career-learnings-directory/) —
-individual repos where experienced engineers share what they've learned
-outside the technical curriculum.
+## About Me
+
+I spent 27 years at ExxonMobil, nearly all of it in Real Time Optimization — the discipline that sits at the intersection of process control, flowsheet modeling, economics, and automation. I started at Exxon Research and Engineering in the U.S., and spent my career doing RTO deployments and revamps through multi-year on-site assignments in the U.S., the U.K., and Belgium, plus remote support and shorter visits that took the same work to Japan, Australia, France, and Canada. The back half of my career shifted increasingly toward mentoring the next generation and building succession plans rather than just solving the technical problem in front of me. Along the way: a patent, several multi-million-dollar value-capture wins, and a lot of hard-won lessons about the non-technical side of the job that nobody ever handed me a syllabus for.
+
+I hold a Ph.D. in Chemical Engineering from Lehigh University and a B.S.
+from the University of Cincinnati. I retired from ExxonMobil in 2026 and
+now volunteer with chemical engineering senior design students at Lamar
+University — this repo is where that effort lives. Full details are on
+the [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) wiki page.
 
 ---
 
