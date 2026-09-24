@@ -46,15 +46,15 @@ advice.
 
 ## How This Repo Is Organized
 
-- **[Wiki](../../wiki)** — start here. Try [Technical Career Stages](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Technical-Career-Stages)
+- **[Wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)** — start here. Try [Technical Career Stages](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Technical-Career-Stages)
   or [Setting and Accomplishing Development Goals](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Setting-and-Accomplishing-Development-Goals)
   first. Topics covered include career stages, development planning,
   communication and networking, mentoring, grad school, stress management,
   and pop-culture career lessons, each as its own page and cross-linked
   where themes overlap.
-- **[Issues / Projects](../../projects)** — my working backlog of topics to
+- **[Issues / Projects](https://github.com/second-hand-tigers/badocter-career-learnings/projects)** — my working backlog of topics to
   develop or revise, tracked by status (Idea → Drafting → Delivered).
-- **[/slides](./slides)** — PowerPoint decks from the actual talks/lectures
+- **[/slides](https://github.com/second-hand-tigers/badocter-career-learnings/tree/main/slides)** — PowerPoint decks from the actual talks/lectures
   this content is drawn from, organized by topic subfolder.
 
 ## About Me
@@ -65,7 +65,7 @@ I hold a Ph.D. in Chemical Engineering from Lehigh University and a B.S.
 from the University of Cincinnati. I retired from ExxonMobil in 2026 and
 now volunteer with chemical engineering senior design students at Lamar
 University — this repo is where that effort lives. Full details are on
-the [Who is Dr. Docter?](../../wiki/Who-is-Dr-Docter) wiki page.
+the [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) wiki page.
 
 ---
 
