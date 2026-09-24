@@ -5,8 +5,7 @@ title: Home
 
 <img src="https://second-hand-tigers.github.io/assets/images/logo_clear_background.png" alt="Second-Hand Tigers logo" width="120">
 
-_[← Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)_<br>
-_[Toggle to Repo View](https://github.com/second-hand-tigers/badocter-career-learnings)_
+_[← Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)_
 
 # William Docter — Career Learnings
 
