@@ -52,7 +52,7 @@ advice.
   communication and networking, mentoring, grad school, stress management,
   and pop-culture career lessons, each as its own page and cross-linked
   where themes overlap.
-- **[Issues / Projects](https://github.com/second-hand-tigers/badocter-career-learnings/projects)** — my working backlog of topics to
+- **[Issues / Projects](https://github.com/orgs/second-hand-tigers/projects/3)** — my working backlog of topics to
   develop or revise, tracked by status (Idea → Drafting → Delivered).
 - **[/slides](https://github.com/second-hand-tigers/badocter-career-learnings/tree/main/slides)** — PowerPoint decks from the actual talks/lectures
   this content is drawn from, organized by topic subfolder.
