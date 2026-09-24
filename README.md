@@ -11,17 +11,21 @@ they're missing one.
 ## Start Here
 
 This site is a companion to the **[full wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)**,
-where every topic lives as its own page. A few good topics to start with:
+where every topic lives as its own page.
 
 | Page | Description |
 |---|---|
-|***Where to Start**|   |
+|**Where to Start**|   |
 | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) | Resumes, LinkedIn, and Interview Prep — writing the documents and working the room.  Start here if you are looking for a job! |
 | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
 | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
 | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) | Communication & Marketing, presentations and public speaking, Bottom Line Up Front, and other workplace-writing pages |
 |   |   |
 |**Other Topics**|   |
+| [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | Background, career path, personality/strengths profile (Myers–Briggs Type Indicator (MBTI)/ Keirsey Temperament Indicator (KTI))|
+| [Dr. Docter's Career Timeline](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Career-Timeline) | Full year-by-year chronology of roles and responsibilities |
+| [Above the Line](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Work-Life-Balance) | Personal resilience story, practical coping strategies, and balancing team Full Time Equivalent (FTE) capacity against workload |
+| [Considerations for Grad School](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Considerations-for-Grad-School) | Funding, choosing a doctoral path, transferable skills |
 | [Pop Culture Career Lessons](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Pop-Culture-Career-Lessons) | Nine films and shows — from Han Solo and Nedry to Neo and the Dread Pirate Roberts — as career-lesson vehicles |
 
 > This repo is part of the **second-hand-tigers** organization's contributor
