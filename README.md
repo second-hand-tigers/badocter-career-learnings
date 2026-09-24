@@ -24,7 +24,7 @@ where every topic lives as its own page.
 
 | Page | Description |
 |---|---|
-| [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | Background, career path, personality/strengths profile (Myers–Briggs Type Indicator (MBTI)/ Keirsey Temperament Sorter (KTS))|
+| [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | Background, career path, personality/strengths profile (Myers–Briggs Type Indicator (MBTI) / Keirsey Temperament Sorter (KTS))|
 | [Dr. Docter's Career Timeline](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Career-Timeline) | Full year-by-year chronology of roles and responsibilities |
 | [Above the Line](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Work-Life-Balance) | Personal resilience story, practical coping strategies, and balancing team Full Time Equivalent (FTE) capacity against workload |
 | [Considerations for Grad School](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Considerations-for-Grad-School) | Funding, choosing a doctoral path, transferable skills |
