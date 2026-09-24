@@ -8,21 +8,23 @@ over many years as a practicing chemical engineer — the non-technical
 skills that most early-career engineers don't realize they need until
 they're missing one.
 
-## Start Here
+## Where to Start
 
 This site is a companion to the **[full wiki](https://github.com/second-hand-tigers/badocter-career-learnings/wiki)**,
 where every topic lives as its own page.
 
 | Page | Description |
 |---|---|
-|**Where to Start**|   |
 | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) | Resumes, LinkedIn, and Interview Prep — writing the documents and working the room.  Start here if you are looking for a job! |
 | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) | The Leadership, Business, Interpersonal, Technical (LBIT) career stage and development framework, mentoring across a career, and the "Sliced Bread" patent case study.  Start here if you have already secured a position and are looking to hit the ground running and take the next steps |
 | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) | The same development, staffing, and communication material above, gathered for whoever is now responsible for someone else's growth and workload.  Start here if you are a manager or leader |
 | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) | Communication & Marketing, presentations and public speaking, Bottom Line Up Front, and other workplace-writing pages |
-|   |   |
-|**Other Topics**|   |
-| [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | Background, career path, personality/strengths profile (Myers–Briggs Type Indicator (MBTI)/ Keirsey Temperament Indicator (KTI))|
+
+## Other Topics
+
+| Page | Description |
+|---|---|
+| [Who is Dr. Docter?](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Who-is-Dr-Docter) | Background, career path, personality/strengths profile (Myers–Briggs Type Indicator (MBTI)/ Keirsey Temperament Sorter (KTS))|
 | [Dr. Docter's Career Timeline](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Career-Timeline) | Full year-by-year chronology of roles and responsibilities |
 | [Above the Line](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Work-Life-Balance) | Personal resilience story, practical coping strategies, and balancing team Full Time Equivalent (FTE) capacity against workload |
 | [Considerations for Grad School](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Considerations-for-Grad-School) | Funding, choosing a doctoral path, transferable skills |
@@ -31,7 +33,7 @@ where every topic lives as its own page.
 > This repo is part of the **second-hand-tigers** organization's contributor
 > network — a collection of individual repos where experienced engineers
 > share what they've learned outside the technical curriculum. See the
-> [contributor directory](./career-learnings-directory)
+> [career learnings directory](https://github.com/second-hand-tigers/career-learnings-directory)
 
 ## Why This Exists
 
